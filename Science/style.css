@@ -1,0 +1,37 @@
+body{
+  background: url('https://1.bp.blogspot.com/-Pq0cZTCaa04/X1vp9gim_LI/AAAAAAAAHYI/4qQ5ksEzweE6AMIkOaSvtxrlCZWcEmUAgCLcBGAsYHQ/s960/backgrounds-powerpoint-48.jpg')no-repeat center center fixed;
+  background-size: cover;
+}
+h1{
+  width: 100;
+  height: 60;
+  text-align: center;
+  font-family: cursive;
+}
+.pic{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  padding-top: 20px;
+}
+.hi{
+  font-weight: normal;
+  font-size: 1.5rem;
+  font-family: 'cursive';
+  text-align: center;
+}
+.banner{
+  width: 100%;
+  position: absolute;
+}
+.banner ul{
+  height: 50px;
+  float: right;
+}
+.banner ul li{
+  display: inline-block;
+  padding: 40px 15px;
+  text-transform: uppercase;
+  color: #000;
+  font-size: 20px;
+}
